@@ -1,0 +1,1 @@
+web: gunicorn debata.wsgi
